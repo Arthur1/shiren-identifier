@@ -119,7 +119,7 @@
               for (let item of items) {
                 if (item.id === record.id) {
                   let name = item.name
-                  if (record.size !== null) {
+                  if (record.size !== null && this.buy === '') {
                     name += '[' + record.size + ']'
                   }
                   new_items.push({

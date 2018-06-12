@@ -1,5 +1,5 @@
 <template>
-	<footer class="page-footer grey darken-1" id="footer">
+	<footer class="page-footer blue-grey darken-1" id="footer">
 	<div class="container">
 		<div class="row">
 			<div class="col l6 s12">

@@ -1,10 +1,10 @@
 <template>
   <div>
     <header class="navbar-fixed">
-      <nav class="lime darken-1">
+      <nav class="blue">
         <div class="nav-wrapper">
           <div class="hide-on-med-and-down left">
-            <router-link to="/">Shiren Idenfier</router-link>
+            <router-link to="/" class="brand-logo">Shiren Idenfier</router-link>
           </div>
           <router-link to="/" class="hide-on-large-only" style="font-size: 1.3em;">Shiren Idenfier</router-link>
         </div>
