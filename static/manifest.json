@@ -1,6 +1,6 @@
 {
-    "name": "\u30b7\u30ec\u30f3\u8b58\u5225",
-    "short_name": "\u30b7\u30ec\u30f3\u8b58\u5225",
+    "name": "Shiren Identifier",
+    "short_name": "Shiren Identifier",
     "icons": [
         {
             "src": "/static/android-chrome-192x192.png",
